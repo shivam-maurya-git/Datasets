@@ -1,15 +1,31 @@
 # Datasets
 It contains data sources of diverse fields.
 
-## Crime
+## Crime/ Legal Cases
 [Gun Violence Archive](https://www.gunviolencearchive.org/) USA
+
+[UNODC Research : Office on Drugs and Crimes](https://www.unodc.org/unodc/en/data-and-analysis/)
+
+[NACJD | Home Page (umich.edu) NATIONAL ARCHIVE OF CRIMINAL JUSTICE DATA ; USA](https://www.icpsr.umich.edu/web/pages/NACJD/index.html)
+
+[APIs and Bulk Data – CourtListener.com](https://www.courtlistener.com/help/api/)  US Court Cases
+
+[Bureau of Justice Statistics (ojp.gov)](https://bjs.ojp.gov/data-collections/search?ty=dca) USA
+
+[Crime/Law Enforcement Stats (UCR Program) — FBI](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr)
+
+[Home - eCourt India Services (ecourts.gov.in) ](https://ecourts.gov.in/ecourts_home/) India
 
 ## Strategic 
 [IISS China Connects  Data on Chinese project in past, present and future in world](https://chinaconnects.iiss.org/)
 
 [Top 100 Defence Companies](https://people.defensenews.com/top-100/)
 
-## Open Data Portal (Countries/Cities/Data Search Portals)/Sustainability/Development
+## Open Data Portal (Countries/Cities/Data Search Portals)/Sustainability/Development/ Data Network
+[Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+
+[Open Data India](https://www.data.gov.in/)
+
 [Data - European Commission (europa.eu)](https://data.europa.eu/)
 
 [Federal State Statistics Service — SDDS Data (rosstat.gov.ru)](https://rosstat.gov.ru/) RUSSIAN FEDERATION
@@ -52,10 +68,24 @@ It contains data sources of diverse fields.
 
 [Datasets | Climate Data Online (CDO) | National Climatic Data Center (NCDC) (noaa.gov) ](https://www.ncdc.noaa.gov/cdo-web/datasets) USA
 
+[Open Science Data Cloud](https://www.opensciencedatacloud.org/)
+
+[UK Open Data](https://www.data.gov.uk/)
+
+[Find public records and leaks - OCCRP Aleph  ](https://aleph.occrp.org/)
+
+[Yelp Open Data](https://business.yelp.com/data/resources/open-dataset/)
+
+[Harvard Dataverse](https://dataverse.harvard.edu/)
+
 ## Astronomy/Remote Sensing
 [Planetary Systems (caltech.edu) EXoplantes data](https://exoplanetarchive.ipac.caltech.edu/)
 
 [ National Remote Sensing Centre](https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html#services) India
+
+[Planetary Data System (nasa.gov) ](https://pds.nasa.gov/)
+
+[Earthdata | Earthdata (nasa.gov)](https://www.earthdata.nasa.gov/)
 
 ## Health/Medicine/Population
 [Data Hub - Family Planning 2030 (fp2030.org)](https://www.fp2030.org/data-hub/)
@@ -78,7 +108,17 @@ It contains data sources of diverse fields.
 
 [UK Data Service](https://ukdataservice.ac.uk/)
 
+[CDC Archive](https://archive.cdc.gov/#/details?url=https://www.cdc.gov/datastatistics/index.html) 
+
+[Health Data Gov](https://healthdata.gov/) USA
+
+[Global Health Observatory - WHO](https://www.who.int/data/gho/)
+
+[NHS Digital](https://digital.nhs.uk/) UK
+
 ## Finance/Companies Filings/Trade
+[OpenSpending : How Governments around the world spend their data](https://www.openspending.org/)
+
 [EDGAR Data](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data) Company Filings data at U.S. Securities and Exchange Commission
 
 [Trade Statistics - Mcommerce ](https://commerce.gov.in/trade-statistics/)
@@ -93,8 +133,7 @@ It contains data sources of diverse fields.
 
 [Federal Reserve Economic Data | FRED | St. Louis Fed (stlouisfed.org)](https://fred.stlouisfed.org/) USA
 
-## Legal
-[APIs and Bulk Data – CourtListener.com](https://www.courtlistener.com/help/api/)  US Court Cases
+[RBI : Public Debt Statistics](https://www.rbi.org.in/scripts/FS_PDS.aspx)
 
 ## Education
 [ Integrated Postsecondary Education Data System](https://nces.ed.gov/ipeds/) About postsecondary education in the United States
@@ -107,10 +146,7 @@ It contains data sources of diverse fields.
 
 [World Higher Education Database (WHED) Portal](https://www.whed.net/home.php)
 
-
-
-
-## Entertainment (Movies/Meme/TV/Music)
+## Entertainment (Movies/Meme/TV/Music/OTT)
 [IMDB Non-Commericial Dataset](https://datasets.imdbws.com/)
 
 [Internet Meme Database](https://knowyourmeme.com/)
@@ -118,6 +154,10 @@ It contains data sources of diverse fields.
 [Weekly TV Viewership data](https://barcindia.co.in/data-insights) India
 
 [Spotify Weekely Top 10](https://charts.spotify.com/home)
+
+[Nielsen : Top 10 Streaming](https://www.nielsen.com/data-center/top-ten/#streaming)
+
+[Netflix Top 10](https://www.netflix.com/tudum/top10)
 
 ## Politics
 [Association for Democratic Reforms | Improving and Strengthening Democracy in India (adrindia.org)](https://www.adrindia.org/)
@@ -160,7 +200,30 @@ It contains data sources of diverse fields.
 [Pawned Websites](https://haveibeenpwned.com/PwnedWebsites)
 
 ## Sports
-[Premier League Club Records, All-Time Team & Player Stats](https://www.premierleague.com/stats/all-time)
+[Premier League Club Records, All-Time Team & Player Stats](https://www.premierleague.com/stats/all-time) Football
+
+[Indian Premier League Stats](https://iplt20stats.com/) Cricket
+
+[The Baseball Cube](https://www.thebaseballcube.com/) Baseball
+
+## Tech Companies Transparency Data
+[Meta Transparency reports](https://transparency.meta.com/reports/)
+
+[Snapchat Transparency](https://values.snap.com/privacy/transparency)
+
+[Linkedin Transparency](https://about.linkedin.com/transparency)
+
+[Google Transparency Report](https://transparencyreport.google.com/?hl=en_GB)
+
+[X Transparency](https://transparency.x.com/en)
+
+[Reddit Transparency](https://redditinc.com/policies/transparency)
+
+[Discord Transparency Hub](https://discord.com/safety-transparency)
+
+[Tumblr Transparency](https://www.tumblr.com/transparency)
+
+[Yandex Transparency](https://yandex.com/company/privacy/transparencyreport)
 
 
 
