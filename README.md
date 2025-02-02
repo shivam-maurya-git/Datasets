@@ -27,11 +27,14 @@ It contains data sources of diverse fields.
 
 [IMF Data](https://www.imf.org/en/Data)
 
+[Open Sea Map](http://openseamap.org/index.php?id=openseamap&L=1)
 
-## Astronomy
+## Astronomy/Remote Sensing
 [Planetary Systems (caltech.edu) EXoplantes data](https://exoplanetarchive.ipac.caltech.edu/)
 
-## Health & Medicine
+[ National Remote Sensing Centre](https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html#services) India
+
+## Health/Medicine/Population
 [Data Hub - Family Planning 2030 (fp2030.org)](https://www.fp2030.org/data-hub/)
 
 [Repurposing Medicine Data](https://repo-hub.broadinstitute.org/repurposing-app)
@@ -42,6 +45,8 @@ It contains data sources of diverse fields.
 
 [Global Digital Health Monitor](https://digitalhealthmonitor.org/)
 
+[UN Population Data](https://population.un.org/wpp/)
+
 ## Finance/Companies Filings
 [EDGAR Data](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data) Company Filings data at U.S. Securities and Exchange Commission
 
@@ -50,9 +55,13 @@ It contains data sources of diverse fields.
 
 ## Education
 [ Integrated Postsecondary Education Data System](https://nces.ed.gov/ipeds/) About postsecondary education in the United States
+[National Center for Education Statistics](https://nces.ed.gov/programs/coe)
 
-## Entertainment (Movies)
+
+## Entertainment (Movies/Meme)
 [IMDB Non-Commericial Dataset](https://datasets.imdbws.com/)
+
+[Internet Meme Database](https://knowyourmeme.com/)
 
 ## Politics
 [Association for Democratic Reforms | Improving and Strengthening Democracy in India (adrindia.org)](https://www.adrindia.org/)
@@ -61,6 +70,19 @@ It contains data sources of diverse fields.
 
 ## Transport
 [National Roadway Safety Strategy (NRSS)](https://cdan.dot.gov/) National Center for Statistics and Analysis (NCSA)
+
+## Natutal Disaster
+[Earthquakes Record Worldwide](https://earthquaketrack.com/recent)
+
+## Geology/Rivers
+[EarthExplorer (usgs.gov)](https://earthexplorer.usgs.gov/)
+
+[India Water Resources Information System](https://indiawris.gov.in/wris/#/)
+
+[National Water Informatics Center](https://nwic.gov.in/data) India
+
+
+
 
 
 
