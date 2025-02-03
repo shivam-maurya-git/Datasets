@@ -1,5 +1,5 @@
 # Datasets
-It contains data sources of diverse fields.
+"Datasets" repo contains data sources of diverse topics, i.e., from Legal cases, health, sports, transport, finance, company filings etc., along with links to open data portals, data dumps. Feel free to contribute and share.
 
 ## Crime/ Legal Cases
 [Gun Violence Archive](https://www.gunviolencearchive.org/) USA
@@ -224,6 +224,21 @@ It contains data sources of diverse fields.
 [Tumblr Transparency](https://www.tumblr.com/transparency)
 
 [Yandex Transparency](https://yandex.com/company/privacy/transparencyreport)
+
+## Miscellaneous :  Data Dumps, Data for ML, Images Data
+[Datasets - UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+
+[Wikimedia Data Dump](https://old.datahub.io/organization/wikimedia)
+
+[Common Crawl - Open Repository of Web Crawl Data](https://commoncrawl.org/overview)
+
+[FaceForensics++: Learning to Detect Manipulated Facial Images](https://github.com/ondyari/FaceForensics/)
+
+[Code and datasets - Amazon Science](https://www.amazon.science/code-and-datasets)
+
+[Open Data on AWS](https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc)
+
+[Data resources and tools | EMBL-EBI](https://www.ebi.ac.uk/services/data-resources-and-tools) Many biological and other data by UK European Bioinformatics Institute
 
 
 
