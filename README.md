@@ -1,5 +1,7 @@
-# Datasets
+# Datasets : A-live comprehensive sources of datasets on the internet
 "Datasets" repo contains data sources of diverse topics, i.e., from Legal cases, health, sports, transport, finance, company filings etc., along with links to open data portals, data dumps. Feel free to contribute and share.
+
+### Please feel free to contribute, i.e., add the data sources that you know, by forking your version of this repo or submitting pull request. 
 
 ## Crime/ Legal Cases
 [Gun Violence Archive](https://www.gunviolencearchive.org/) USA
