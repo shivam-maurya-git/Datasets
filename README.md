@@ -80,6 +80,10 @@
 
 [Harvard Dataverse](https://dataverse.harvard.edu/)
 
+[Open Global addresses collection](https://openaddresses.io/)
+
+[CERN open data - on particle physics](https://opendata.cern.ch/)
+
 ## Astronomy/Remote Sensing
 [Planetary Systems (caltech.edu) EXoplantes data](https://exoplanetarchive.ipac.caltech.edu/)
 
