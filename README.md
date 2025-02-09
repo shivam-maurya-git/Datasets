@@ -3,7 +3,7 @@
 
 ### Please feel free to contribute, i.e., add the data sources that you know, by forking your version of this repo or submitting pull request. 
 
-## Crime/ Legal Cases
+## Crime/ Legal Cases/ Cyber Crime
 [Gun Violence Archive](https://www.gunviolencearchive.org/) USA
 
 [UNODC Research : Office on Drugs and Crimes](https://www.unodc.org/unodc/en/data-and-analysis/)
@@ -17,6 +17,10 @@
 [Crime/Law Enforcement Stats (UCR Program) — FBI](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr)
 
 [Home - eCourt India Services (ecourts.gov.in) ](https://ecourts.gov.in/ecourts_home/) India
+
+[Tech Support Scam data](https://github.com/choozn/PopupDB-Data?tab=readme-ov-file)
+
+[Public.Resource.Org](https://public.resource.org/index.html) Legal Cases USA
 
 ## Strategic 
 [IISS China Connects  Data on Chinese project in past, present and future in world](https://chinaconnects.iiss.org/)
@@ -83,6 +87,18 @@
 [Open Global addresses collection](https://openaddresses.io/)
 
 [CERN open data - on particle physics](https://opendata.cern.ch/)
+
+[Microdata, India Govt](https://microdata.gov.in/NADA43/index.php/home/) India
+
+[Awesome public realtime datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
+
+[Awesome Data on different topics](https://github.com/awesomedata/awesome-public-datasets)
+
+[Registry of Open Data - AWS](https://registry.opendata.aws/)
+
+[Patents Data by Google](https://patents.google.com/)
+
+[NACo County Explorer](https://ce.naco.org/?find=true) Explore counties of USA
 
 ## Astronomy/Remote Sensing
 [Planetary Systems (caltech.edu) EXoplantes data](https://exoplanetarchive.ipac.caltech.edu/)
@@ -152,7 +168,7 @@
 
 [World Higher Education Database (WHED) Portal](https://www.whed.net/home.php)
 
-## Entertainment (Movies/Meme/TV/Music/OTT)
+## Entertainment (Movies/Meme/TV/Music/OTT/Books)
 [IMDB Non-Commericial Dataset](https://datasets.imdbws.com/)
 
 [Internet Meme Database](https://knowyourmeme.com/)
@@ -164,6 +180,8 @@
 [Nielsen : Top 10 Streaming](https://www.nielsen.com/data-center/top-ten/#streaming)
 
 [Netflix Top 10](https://www.netflix.com/tudum/top10)
+
+[Amazon Popular Books Dataset](https://github.com/luminati-io/Amazon-popular-books-dataset)
 
 ## Politics
 [Association for Democratic Reforms | Improving and Strengthening Democracy in India (adrindia.org)](https://www.adrindia.org/)
@@ -186,6 +204,8 @@
 [Flightradar24 database - Advanced search - Flightradar24](https://www.flightradar24.com/data)
 
 [Tom Tom Traffic Index](https://www.tomtom.com/traffic-index/)
+
+[Indian Air Transport Data](https://www.dgca.gov.in/digigov-portal/#dataReports) India
 
 ## Natutal Disaster
 [Earthquakes Record Worldwide](https://earthquaketrack.com/recent)
@@ -231,7 +251,7 @@
 
 [Yandex Transparency](https://yandex.com/company/privacy/transparencyreport)
 
-## Miscellaneous :  Data Dumps, Data for ML, Images Data
+## Miscellaneous :  Data Dumps, Data for ML, Images Data, Text Data
 [Datasets - UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
 [Wikimedia Data Dump](https://old.datahub.io/organization/wikimedia)
@@ -245,6 +265,27 @@
 [Open Data on AWS](https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc)
 
 [Data resources and tools | EMBL-EBI](https://www.ebi.ac.uk/services/data-resources-and-tools) Many biological and other data by UK European Bioinformatics Institute
+
+[Open Library Data Dump](https://openlibrary.org/data)
+
+[Brown Corpus](https://www.nltk.org/nltk_data/)  Collection of American English Text
+
+[WordNet](https://wordnet.princeton.edu/download) A Lexical Database for English
+
+## AI Training Data
+[Awesome ChatGPT datasets](https://github.com/voidful/awesome-chatgpt-dataset) Different training datasets
+
+[Sama-Coco Datasets](https://www.sama.com/sama-coco-dataset) Image
+
+[Open ML Data](https://www.openml.org/search?type=data&status=active)
+
+[Hugging Face Datasets](https://huggingface.co/datasets)
+
+
+
+
+
+
 
 
 
